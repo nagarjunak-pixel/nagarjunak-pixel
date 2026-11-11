@@ -15,4 +15,4 @@ Agentic AI (LangGraph, MCP) · RAG & knowledge graphs · LLM evaluation & monito
 - **[surya-shiksha](https://github.com/nagarjunak-pixel/surya-shiksha)** — SURYA SHIKSHA - AI-Powered Agentic Learning Operating System for Children
 - **[langgraph-localai-tv](https://github.com/nagarjunak-pixel/langgraph-localai-tv)** — LangGraph 3-stage news pipeline: headlines → video → bulletin. Human approval gates, checkpoint persistence, error recovery.
 ### Connect
-[LinkedIn](https://linkedin.com/in/nagarjuna-kamireddy) · nagarjuna.k@icloud.com
+[LinkedIn](https://linkedin.com/in/nagarjuna-kamireddy) · sendemailtonagarjuna@gmail.com
