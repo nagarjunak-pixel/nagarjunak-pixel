@@ -1,42 +1,19 @@
-# Nagarjuna Reddy Kamireddy
+# Hi, I'm Nagarjuna Kamireddy 👋
 
-Agentic AI, local products, and teaching projects.
+**Lead AI Architect** — I turn messy enterprise processes into production AI, and stay with it until people actually use it.
 
-Empty shells, placeholder sites, and the numbered agentic-demo stubs have been removed. What is left is the work itself.
+- Most recently technical lead and AI architect for a 12+ member AI/ML team at John Deere: 23+ initiatives, 750K+ automated requests and 42K+ hours saved in FY26
+- 20+ years in enterprise data and AI — from SAP BW / HANA consulting across the UK, Malaysia, Singapore, India and the US to agentic AI
+- Based in Dubai · open to AI Architect, Head of AI, Solutions Architect and Forward Deployed roles
 
-## Start here
+### What I work on
+Agentic AI (LangGraph, MCP) · RAG & knowledge graphs · LLM evaluation & monitoring · AI governance · AWS · SAP HANA
 
-| Project | What it is |
-| --- | --- |
-| [company-os](https://github.com/nagarjunak-pixel/company-os) | Config-driven company run by a team of AI agents |
-| [surya-shiksha](https://github.com/nagarjunak-pixel/surya-shiksha) | Agentic learning system for children |
-| [agentic-systems-v3.1](https://github.com/nagarjunak-pixel/agentic-systems-v3.1) | Consolidated agentic-systems monorepo |
-| [rag-chat-docs](https://github.com/nagarjunak-pixel/rag-chat-docs) | Retrieval-augmented chat, built as a teaching project |
-| [llm-knowledge-base](https://github.com/nagarjunak-pixel/llm-knowledge-base) | Ingest sources into a searchable markdown wiki |
-| [self-improving-agents](https://github.com/nagarjunak-pixel/self-improving-agents) | ReAct, reflexion, and multi-agent teaching framework |
-| [02-autogpt-autonomous-agent](https://github.com/nagarjunak-pixel/02-autogpt-autonomous-agent) | AutoGPT autonomous-agent demo |
-| [localaitv-mcp-server](https://github.com/nagarjunak-pixel/localaitv-mcp-server) | MCP server for LocalAI TV |
+### Featured projects
+- **[company-os](https://github.com/nagarjunak-pixel/company-os)** — CompanyOS — run ANY company with a team of AI agents. Config-driven (company.json), 7 role-agents, SIM + LIVE modes, kanban dashboard, KPI engine.
+- **[llm-knowledge-base](https://github.com/nagarjunak-pixel/llm-knowledge-base)** — LLM knowledge base: ingest sources, compile a markdown wiki, search, and ask questions (FastAPI + SQLite).
+- **[surya-shiksha](https://github.com/nagarjunak-pixel/surya-shiksha)** — SURYA SHIKSHA - AI-Powered Agentic Learning Operating System for Children
+- **[langgraph-localai-tv](https://github.com/nagarjunak-pixel/langgraph-localai-tv)** — LangGraph 3-stage news pipeline: headlines → video → bulletin. Human approval gates, checkpoint persistence, error recovery. Part of AY Automate.
 
-## Products and tools
-
-| Project | What it is |
-| --- | --- |
-| [ai-calc](https://github.com/nagarjunak-pixel/ai-calc) | Plain-English calculator backed by a local Qwen model |
-| [apsrtc-statistics-dashboard](https://github.com/nagarjunak-pixel/apsrtc-statistics-dashboard) | APSRTC statistics dashboard |
-| [noah-animal-clinic](https://github.com/nagarjunak-pixel/noah-animal-clinic) | NOAH Animal Clinic website |
-| [operdai-backend](https://github.com/nagarjunak-pixel/operdai-backend) | Operdai backend |
-| [operdai-dashboard](https://github.com/nagarjunak-pixel/operdai-dashboard) | Operdai dashboard |
-| [codexforge-tdd-mvp-v2](https://github.com/nagarjunak-pixel/codexforge-tdd-mvp-v2) | Self-correcting TDD sandbox |
-| [venkatesh-llm](https://github.com/nagarjunak-pixel/venkatesh-llm) | Small educational LLM, from data to a working demo |
-| [crewai-telugu-newsroom](https://github.com/nagarjunak-pixel/crewai-telugu-newsroom) | Multi-agent Telugu newsroom |
-| [langgraph-localai-tv](https://github.com/nagarjunak-pixel/langgraph-localai-tv) | LangGraph news pipeline for LocalAI TV |
-| [deerflow-research-agent](https://github.com/nagarjunak-pixel/deerflow-research-agent) | Research agent with planner, searcher, and analyzer |
-| [firecrawl-nexus-rss](https://github.com/nagarjunak-pixel/firecrawl-nexus-rss) | Constituency news aggregator |
-
-## Reference copy
-
-| Project | Upstream |
-| --- | --- |
-| [clicky](https://github.com/nagarjunak-pixel/clicky) | [farzaa/clicky](https://github.com/farzaa/clicky) |
-
-Private app and client repositories stay private and are not listed here.
+### Connect
+[LinkedIn](https://linkedin.com/in/nagarjuna-kamireddy) · nagarjuna.k@icloud.com
