@@ -10,6 +10,7 @@
 Agentic AI (LangGraph, MCP) · RAG & knowledge graphs · LLM evaluation & monitoring · AI governance · AWS · SAP HANA
 
 ### Featured projects
+- **[aegis-runtime](https://github.com/nagarjunak-pixel/aegis-runtime)** — Deterministic Zero-Trust Control Plane & Transactional Saga Engine for Enterprise AI Agents: custom `.aegis` AST policy compiler (29 µs median), Biba/Bell-LaPadula taint lattices, AES-256-GCM PII vault, orchestrated SAP/ERP compensating rollbacks, and RFC-6962 Merkle + Ed25519 audit ledger.
 - **[company-os](https://github.com/nagarjunak-pixel/company-os)** — CompanyOS — run ANY company with a team of AI agents. Config-driven (company.json), 7 role-agents, SIM + LIVE modes, kanban dashboard, KPI engine.
 - **[llm-knowledge-base](https://github.com/nagarjunak-pixel/llm-knowledge-base)** — LLM knowledge base: ingest sources, compile a markdown wiki, search, and ask questions (FastAPI + SQLite).
 - **[surya-shiksha](https://github.com/nagarjunak-pixel/surya-shiksha)** — SURYA SHIKSHA - AI-Powered Agentic Learning Operating System for Children
