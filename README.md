@@ -12,6 +12,7 @@
 [![NVIDIA NCP-AAI](https://img.shields.io/badge/NVIDIA_Certified-Professional:_Agentic_AI_(NCP--AAI)-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://nagarjunak-pixel.github.io/resume.html)
 [![SAP 4x Certified](https://img.shields.io/badge/4x_SAP_Certified-HANA_·_BW_7.4_·_S%2F4_Finance_·_BPC-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://nagarjunak-pixel.github.io/sap-genai-integration-architect.html)
 [![Location & Availability](https://img.shields.io/badge/Dubai,_UAE-Immediate_Availability_(GCC_·_US_·_UK_·_EU_·_Remote)-10b981?style=flat-square)](https://nagarjunak-pixel.github.io/#contact)
+[![Follow on GitHub](https://img.shields.io/github/followers/nagarjunak-pixel?label=Follow%20%40nagarjunak-pixel&style=flat-square&logo=github&color=1f6feb)](https://github.com/nagarjunak-pixel)
 
 *Also published as **Nagarjuna Kamireddy** · **Nagarjuna K** · **Nagarjun Reddy Kamireddi***
 
@@ -135,5 +136,6 @@ Clean-room, zero-mock reference systems combining **Python 3.12/3.13, Native `C+
 - **Canonical Architecture Hub:** [https://nagarjunak-pixel.github.io/](https://nagarjunak-pixel.github.io/) · [Case Studies](https://nagarjunak-pixel.github.io/case-studies.html) · [10-Role Fit Matrix](https://nagarjunak-pixel.github.io/roles.html)
 - **Regional & Domain Briefs:** [UAE / Dubai AI Architect](https://nagarjunak-pixel.github.io/uae-dubai-ai-architect.html) · [Saudi Arabia / KSA Sovereign AI](https://nagarjunak-pixel.github.io/saudi-arabia-ksa-ai-architect.html) · [SAP + GenAI Integration](https://nagarjunak-pixel.github.io/sap-genai-integration-architect.html) · [Forward-Deployed AI Architect](https://nagarjunak-pixel.github.io/forward-deployed-ai-architect.html)
 - **Downloadable Resumes:** [Global AI Architect PDF](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Global.pdf) · [UAE / KSA / GCC PDF](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Gulf-UAE.pdf) · [Corporate AI Trainer PDF](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Corporate-AI-Trainer.pdf) · [JSON Resume (`resume.json`)](https://nagarjunak-pixel.github.io/resume.json)
+- **Runnable Architecture Gists:** [8-Crown Mathematical & Distributed-Systems Invariant Suite (`verify_8_crown_invariants.py`)](https://gist.github.com/nagarjunak-pixel/a302375da67c31a3caa6322d5b9f0f08) · [Enterprise AI & SAP Architecture Dossier](https://gist.github.com/nagarjunak-pixel/09292ddeff5241e6414a438841631f4a)
 - **AI / Sourcing Agent Index:** [`llms.txt`](https://nagarjunak-pixel.github.io/llms.txt) · [`llms-full.txt`](https://nagarjunak-pixel.github.io/llms-full.txt) · [`person.json` (Schema.org)](https://nagarjunak-pixel.github.io/person.json)
 - **Direct Contact:** `gmailtonagarjuna@gmail.com` · **Dubai / WhatsApp:** `+971 50 742 4361` · **India:** `+91 93913 47406` · **[LinkedIn](https://linkedin.com/in/nagarjuna-kamireddy)**
