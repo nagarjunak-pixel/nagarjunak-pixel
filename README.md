@@ -29,12 +29,13 @@
 
 ---
 
-### 9-Crown Frontier, Sovereign & Enterprise AI Reference Architecture Suite
+### 10-Crown Frontier, Sovereign & Enterprise AI Reference Architecture Suite
 
-Clean-room, zero-mock reference systems combining **Python 3.12/3.13, Native `C++20` (`-O3`), MLIR/Triton SSA Graph Compilation, PyTorch Autograd, Distributed Consensus & TLA+ Model Checking, Formal Methods, Differential Privacy, Operations Research, and TypeScript Control Planes** — backed by 96.6–98.4%+ test coverage, Architecture Decision Records (ADRs), `MIT`/`Apache-2.0` licensing, and live GitHub Actions verification.
+Clean-room, zero-mock reference systems combining **Python 3.12/3.13, Native `C++20` (`-O3`), Causal Econometrics (`Double ML` & Split Conformal), MLIR/Triton SSA Graph Compilation, PyTorch Autograd, Distributed Consensus & TLA+ Model Checking, Formal Methods, Differential Privacy, Operations Research, and TypeScript Control Planes** — backed by 96.6–98.4%+ test coverage, Architecture Decision Records (ADRs), `MIT`/`Apache-2.0` licensing, and live GitHub Actions verification.
 
 | System | Architectural Domain | Core Stack & Mathematical Primitives | Verified Reproducible Proof | CI |
 | :--- | :--- | :--- | :--- | :---: |
+| **[nexus-verity](https://github.com/nagarjunak-pixel/nexus-verity)** | **Causal Discovery, Double ML & Conformal Policy Engine** | `PC-Stable` DAG + Pearl Backdoor, 5-fold Neyman-orthogonal `DML`, `C++20` Split Conformal & Doubly-Robust OPE | **`SHD = 0`** · **`919×`** Simpson's bias cut · **`90.5%`** conformal (`30.9×` < IPS error) | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/nexus-verity/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/nexus-verity/actions/workflows/ci.yml) |
 | **[aether-compiler](https://github.com/nagarjunak-pixel/aether-compiler)** | **MLIR/Triton SSA Graph Compiler & Polyhedral H100 Tiler** | Typed `SSA` IR, epilogue fusion, `C++20` `256B` linear-scan arena, polyhedral H100 TMA tiler & `CuTe` XOR bank swizzle | **`3.60×`** smaller static arena (`0` alias) · **`32→1`** bank conflict-free · **`67% → 100%`** CEGIS | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/aether-compiler/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/aether-compiler/actions/workflows/ci.yml) |
 | **[helios-consensus](https://github.com/nagarjunak-pixel/helios-consensus)** | **Deterministic Raft DST, TLA+ Prover & HotStuff BFT** | Logical-tick Raft split-brain DST, explicit-state `TLA+` BFS checker, `HotStuff` 3-chain BFT, `C++20` Jump-Hash & `CRC32C` WAL | **`985`** BFS states (`4`-step mutant trace) · **`0`** split-brain leaks · **`64/64`** WAL bitflips caught | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/helios-consensus/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/helios-consensus/actions/workflows/ci.yml) |
 | **[privora-graph](https://github.com/nagarjunak-pixel/privora-graph)** | **Sovereign DP-SGD, Bi-Temporal GraphRAG & Byzantine FL** | Binomial Rényi `DP-SGD` accountant, `SQL:2011` bi-temporal `C++20` CSR PageRank, `Multi-Krum` & Weiszfeld `RFA` | **`(ε=4.14, δ=1e-5)`** (`-90.3%` MIA) · **`0/6`** retroactive leaks (`100%` SEC/OFAC/GDPR) | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/privora-graph/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/privora-graph/actions/workflows/ci.yml) |
@@ -47,9 +48,23 @@ Clean-room, zero-mock reference systems combining **Python 3.12/3.13, Native `C+
 
 ---
 
-### Live Telemetry & Control-Plane Workbenches
+### Live Telemetry & Control-Plane Workbenches (10-Crown Suite)
 
 <table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/nagarjunak-pixel/nexus-verity">
+        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/nexus-verity/main/docs/assets/workbench-preview.png" alt="NexusVerity Workbench" width="100%" />
+      </a>
+      <br /><strong><a href="https://github.com/nagarjunak-pixel/nexus-verity">NexusVerity</a></strong> · PC-Stable Causal DAGs, Cross-Fitted Double ML &amp; C++20 Conformal OPE
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/nagarjunak-pixel/aether-compiler">
+        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/aether-compiler/main/docs/assets/workbench-preview.png" alt="AetherCompiler Workbench" width="100%" />
+      </a>
+      <br /><strong><a href="https://github.com/nagarjunak-pixel/aether-compiler">AetherCompiler</a></strong> · MLIR/Triton SSA Fusion, C++20 Arena &amp; H100 CuTe XOR Autotuner
+    </td>
+  </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/nagarjunak-pixel/helios-consensus">
