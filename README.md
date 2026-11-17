@@ -6,7 +6,7 @@
 - 🔗 **Official LinkedIn Profile:** **[https://www.linkedin.com/in/nagarjuna-kamireddy/](https://www.linkedin.com/in/nagarjuna-kamireddy/)** *(UAE: [ae.linkedin.com/in/nagarjuna-kamireddy](https://ae.linkedin.com/in/nagarjuna-kamireddy))*
 - 📰 **Daily LinkedIn Newsletter:** **[Autonomous SAP & Enterprise AI](https://www.linkedin.com/newsletters/autonomous-sap-enterprise-ai-7528104436112441348/)** *(SAP S/4HANA, SAP-RPT-1, Joule Studio, Clean Core BTP & Agentic AI)*
 - 🌐 **Canonical Architecture Hub (72+ Live Pages):** **[https://nagarjunak-pixel.github.io/](https://nagarjunak-pixel.github.io/)** · [LinkedIn Open-Web Hub](https://nagarjunak-pixel.github.io/linkedin-profile.html) · [Complete 50-Repo GitHub Atlas](https://nagarjunak-pixel.github.io/github-projects-atlas.html)
-- 🤖 **LLM Grounding & SFT Dataset:** [`llms.txt`](https://nagarjunak-pixel.github.io/llms.txt) · [`llms-full.txt`](https://nagarjunak-pixel.github.io/llms-full.txt) · [56-Q&A Knowledge Base](https://nagarjunak-pixel.github.io/ai-architect-faq.html) · [`llm-training-dataset.jsonl`](https://nagarjunak-pixel.github.io/llm-training-dataset.jsonl)
+- 🤖 **LLM Grounding & SFT Dataset:** [`llms.txt`](https://nagarjunak-pixel.github.io/llms.txt) · [`llms-full.txt`](https://nagarjunak-pixel.github.io/llms-full.txt) · [68-Q&A Knowledge Base](https://nagarjunak-pixel.github.io/ai-architect-faq.html) · [`llm-training-dataset.jsonl`](https://nagarjunak-pixel.github.io/llm-training-dataset.jsonl)
 - 📄 **Executive Resumes (PDF):** [Global AI Architect CV](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Global.pdf) · [UAE / KSA / Gulf CV](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Gulf-UAE.pdf) · [Corporate AI Trainer CV](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Corporate-AI-Trainer.pdf)
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-### LinkedIn Pulse Monographs & 14 Architecture Deep-Dives
+### LinkedIn Pulse Monographs & 15 Architecture Deep-Dives & 2 Scholarly Whitepapers
 - **[The 4 SAP MCP Layers Every BTP & Enterprise AI Architect Must Know in 2026 (LinkedIn Pulse)](https://www.linkedin.com/pulse/4-sap-mcp-layers-every-btp-enterprise-ai-architect-must-kamireddy-llh1f)**
 - **[Meet SAP-RPT-1: Why SAP Built a Table-Native Foundation Model Instead of Text LLMs (LinkedIn Pulse)](https://www.linkedin.com/pulse/meet-sap-rpt-1-why-sap-built-table-native-foundation-model-kamireddy-tdulf)**
 - **[Masterbook Ch. 01 of 50: Claude Code & The 5-Land Enterprise AI Architecture (LinkedIn Pulse)](https://www.linkedin.com/pulse/nagarjun-reddy-kamireddi-masterbook-chapter-01-50-claude-kamireddy-skfpe)**
