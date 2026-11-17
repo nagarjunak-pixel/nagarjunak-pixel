@@ -1,173 +1,109 @@
-<div align="center">
+# Nagarjuna Reddy Kamireddy 👋
+*(Published on LinkedIn & GitHub as **Nagarjuna Kamireddy** · **Nagarjuna K** · **Nagarjun Reddy Kamireddi**)*
 
-# Nagarjuna Reddy Kamireddy
-**Principal / Lead AI Architect &nbsp;·&nbsp; Frontier LLM Runtimes & Sovereign Agentic AI &nbsp;·&nbsp; Enterprise SAP & Cloud Systems**
+**Lead AI Architect &nbsp;|&nbsp; Production Agentic AI, Hybrid RAG & LLM Evals (750K+ Workflows/Yr) &nbsp;|&nbsp; Ex-John Deere, GSK, Deloitte &nbsp;|&nbsp; AWS SA Pro & NVIDIA Agentic AI Certified**
 
-[![Official Portfolio](https://img.shields.io/badge/Portfolio_&_Case_Studies-nagarjunak--pixel.github.io-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8)](https://nagarjunak-pixel.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagarjuna_Kamireddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagarjuna-kamireddy)
-[![Executive CV PDF](https://img.shields.io/badge/Executive_CV_(PDF)-Download_Global_&_GCC-059669?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Global.pdf)
-[![Role Fit Matrix](https://img.shields.io/badge/Mandate_Fit-10_Executive_AI_Roles-4f46e5?style=for-the-badge)](https://nagarjunak-pixel.github.io/roles.html)
-
-[![AWS SAP-C02](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Professional_(SAP--C02)-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](https://nagarjunak-pixel.github.io/resume.html)
-[![NVIDIA NCP-AAI](https://img.shields.io/badge/NVIDIA_Certified-Professional:_Agentic_AI_(NCP--AAI)-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://nagarjunak-pixel.github.io/resume.html)
-[![SAP 4x Certified](https://img.shields.io/badge/4x_SAP_Certified-HANA_·_BW_7.4_·_S%2F4_Finance_·_BPC-0FAAFF?style=flat-square&logo=sap&logoColor=white)](https://nagarjunak-pixel.github.io/sap-genai-integration-architect.html)
-[![Location & Availability](https://img.shields.io/badge/Dubai,_UAE-Immediate_Availability_(GCC_·_US_·_UK_·_EU_·_Remote)-10b981?style=flat-square)](https://nagarjunak-pixel.github.io/#contact)
-[![Follow on GitHub](https://img.shields.io/github/followers/nagarjunak-pixel?label=Follow%20%40nagarjunak-pixel&style=flat-square&logo=github&color=1f6feb)](https://github.com/nagarjunak-pixel)
-
-*Also published as **Nagarjuna Kamireddy** · **Nagarjuna K** · **Nagarjun Reddy Kamireddi***
-
-</div>
+- 🔗 **Official LinkedIn Profile:** **[https://www.linkedin.com/in/nagarjuna-kamireddy/](https://www.linkedin.com/in/nagarjuna-kamireddy/)** *(UAE: [ae.linkedin.com/in/nagarjuna-kamireddy](https://ae.linkedin.com/in/nagarjuna-kamireddy))*
+- 📰 **Daily LinkedIn Newsletter:** **[Autonomous SAP & Enterprise AI](https://www.linkedin.com/newsletters/autonomous-sap-enterprise-ai-7528104436112441348/)** *(SAP S/4HANA, SAP-RPT-1, Joule Studio, Clean Core BTP & Agentic AI)*
+- 🌐 **Canonical Architecture Hub (72+ Live Pages):** **[https://nagarjunak-pixel.github.io/](https://nagarjunak-pixel.github.io/)** · [LinkedIn Open-Web Hub](https://nagarjunak-pixel.github.io/linkedin-profile.html) · [Complete 50-Repo GitHub Atlas](https://nagarjunak-pixel.github.io/github-projects-atlas.html)
+- 🤖 **LLM Grounding & SFT Dataset:** [`llms.txt`](https://nagarjunak-pixel.github.io/llms.txt) · [`llms-full.txt`](https://nagarjunak-pixel.github.io/llms-full.txt) · [56-Q&A Knowledge Base](https://nagarjunak-pixel.github.io/ai-architect-faq.html) · [`llm-training-dataset.jsonl`](https://nagarjunak-pixel.github.io/llm-training-dataset.jsonl)
+- 📄 **Executive Resumes (PDF):** [Global AI Architect CV](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Global.pdf) · [UAE / KSA / Gulf CV](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Gulf-UAE.pdf) · [Corporate AI Trainer CV](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Corporate-AI-Trainer.pdf)
 
 ---
 
-### Executive Impact Snapshot
-
-- **Fortune-100 Production Scale (John Deere):** Served as **AI Architect & Technical Lead** guiding a **12+ engineer AI/ML team across 23+ production initiatives** — delivering **750,000+ automated workflows**, **42,000+ engineering hours saved**, and **~25% faster cycle time in FY26**. Rescued an underperforming enterprise GenAI copilot from **~30% to ~70% accuracy** via multimodal vision agents and deterministic rule gates, while enforcing **255 automated CI LLM evaluation gates**.
-- **20+ Years Global Enterprise Data, SAP & AI Delivery:** **10+ years** architecting production ML, Hybrid/Neo4j GraphRAG, MCP servers, and multi-agent control planes (*John Deere, Persistent Systems, Vertiv, Soham Global*) built atop **12 years** embedded internationally across the **UK, Malaysia, Singapore, US, and India** (*GlaxoSmithKline UK, PETRONAS Energy Trading & Deloitte, DHL, Symantec, Lenovo*).
-- **Systems-First Engineering Depth:** From **native `C++20` sub-byte `INT4` GEMM, CSR PageRank, Jump-Hash/CRC32C & speculative decoding kernels**, **FoundationDB-style Raft DST + TLA+ BFS model checking + HotStuff 3-Chain BFT**, **critic-free `GRPO/DAPO` RLVR post-training**, **Rényi `DP-SGD` privacy accounting**, and **`1-UIP` CDCL formal verification** to **RFC-6962 Merkle-audited SAP/ERP compensating sagas** and **TCP-Vegas multi-tenant LLM gateways**.
-- **Executive Enablement & Corporate Training:** Founder of **Surya HANA Academy** (~1,000 engineers trained) & **Suryagentic Institute** (**280+ live Agentic AI sessions / 570+ cohort hours in 2026**, plus **300+ corporate practitioners** upskilled at John Deere).
+### Executive Impact (22+ Years Global Enterprise Data, SAP HANA & Production AI)
+- **John Deere (AI Architecture & Technical Lead, 2023–2026):** Led a **12+ member AI/ML team across 23+ production initiatives** — **750K+ automated requests & 42K+ hours saved (~25% faster cycle time) in FY26**. Built **StoneAge** (LangGraph + OpenSearch hybrid RAG + Neo4j copilot routing across GPT-5/Claude/GPT-4o/Gemini), rescued a failing **~30%-accurate GenAI product to ~70% accuracy** via GPT-4o Vision + rule gates, built **AIFlow** (255 CI quality checks), and served on the **AI Governance Council** (NIST AI RMF / EU AI Act).
+- **Persistent Systems, Vertiv & Soham Global (2016–2023):** Production ML, MLOps, AWS Athena lakehouse pushdown, computer vision, NLP, and leakage-safe forecasting.
+- **Global SAP HANA / BW / BPC Consulting (2004–2016 — UK, Malaysia, Singapore, US, India):** **GlaxoSmithKline (GSK UK)** in-database HANA PAL/APL/R ML; **PETRONAS Energy Trading & Deloitte** (`48 hours → 12 minutes` HANA speedup); **DHL, Symantec & Lenovo**; **4× SAP Certified** + Founder of **Surya HANA Academy (~1,000 trained)** & **Suryagentic Institute (280+ live AI sessions in 2026)**.
 
 ---
 
-### 10-Crown Frontier, Sovereign & Enterprise AI Reference Architecture Suite
-
-Clean-room, zero-mock reference systems combining **Python 3.12/3.13, Native `C++20` (`-O3`), Causal Econometrics (`Double ML` & Split Conformal), MLIR/Triton SSA Graph Compilation, PyTorch Autograd, Distributed Consensus & TLA+ Model Checking, Formal Methods, Differential Privacy, Operations Research, and TypeScript Control Planes** — backed by 96.6–98.4%+ test coverage, Architecture Decision Records (ADRs), `Apache-2.0` licensing, and live GitHub Actions verification.
-
-| System | Architectural Domain | Core Stack & Mathematical Primitives | Verified Reproducible Proof | CI |
-| :--- | :--- | :--- | :--- | :---: |
-| **[nexus-verity](https://github.com/nagarjunak-pixel/nexus-verity)** | **Causal Discovery, Double ML & Conformal Policy Engine** | `PC-Stable` DAG + Pearl Backdoor, 5-fold Neyman-orthogonal `DML`, `C++20` Split Conformal & Doubly-Robust OPE | **`SHD = 0`** · **`919×`** Simpson's bias cut · **`90.5%`** conformal (`30.9×` < IPS error) | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/nexus-verity/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/nexus-verity/actions/workflows/ci.yml) |
-| **[aether-compiler](https://github.com/nagarjunak-pixel/aether-compiler)** | **MLIR/Triton SSA Graph Compiler & Polyhedral H100 Tiler** | Typed `SSA` IR, epilogue fusion, `C++20` `256B` linear-scan arena, polyhedral H100 TMA tiler & `CuTe` XOR bank swizzle | **`3.60×`** smaller static arena (`0` alias) · **`32→1`** bank conflict-free · **`67% → 100%`** CEGIS | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/aether-compiler/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/aether-compiler/actions/workflows/ci.yml) |
-| **[helios-consensus](https://github.com/nagarjunak-pixel/helios-consensus)** | **Deterministic Raft DST, TLA+ Prover & HotStuff BFT** | Logical-tick Raft split-brain DST, explicit-state `TLA+` BFS checker, `HotStuff` 3-chain BFT, `C++20` Jump-Hash & `CRC32C` WAL | **`985`** BFS states (`4`-step mutant trace) · **`0`** split-brain leaks · **`64/64`** WAL bitflips caught | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/helios-consensus/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/helios-consensus/actions/workflows/ci.yml) |
-| **[privora-graph](https://github.com/nagarjunak-pixel/privora-graph)** | **Sovereign DP-SGD, Bi-Temporal GraphRAG & Byzantine FL** | Binomial Rényi `DP-SGD` accountant, `SQL:2011` bi-temporal `C++20` CSR PageRank, `Multi-Krum` & Weiszfeld `RFA` | **`(ε=4.14, δ=1e-5)`** (`-90.3%` MIA) · **`0/6`** retroactive leaks (`100%` SEC/OFAC/GDPR) | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/privora-graph/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/privora-graph/actions/workflows/ci.yml) |
-| **[quant-forge](https://github.com/nagarjunak-pixel/quant-forge)** | **Sub-Byte LLM Quantization & Hardware Roofline** | `C++20` `2-weights/byte` `INT4` fused GEMM, Cholesky `H⁻¹` `GPTQ`, `AWQ`, `SpinQuant` Walsh-Hadamard, OCP `FP8 E4M3/E5M2` | **`6.40×`** byte compression · **`25.49×`** lower `GPTQ` MSE (`+14.1 dB`) · **`3.55×`** H100 decode | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/quant-forge/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/quant-forge/actions/workflows/ci.yml) |
-| **[veritas-rl](https://github.com/nagarjunak-pixel/veritas-rl)** | **Frontier RLVR Post-Training & 2D Parallelism** | Critic-free `GRPO`/`DAPO`, Schulman `k₃` KL, ICML '24 `DoRA`, `C++20` kernels, Ring-Attention + Megatron 2D TP, Step `PRM` | **`6.25% → 50.0%`** RLVR `Pass@1` (`8×`) · **`563×`** lower DoRA MSE · **`62.5% → 100%`** PRM | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/veritas-rl/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/veritas-rl/actions/workflows/ci.yml) |
-| **[axiom-zero](https://github.com/nagarjunak-pixel/axiom-zero)** | **Verified Transformer Runtime & SAE Steering** | From-scratch `RoPE+GQA+SwiGLU` + CoW Paged-KV, `C++20` lossless speculative kernel, `Top-K` SAE, `1-UIP` CDCL `RUP` prover | **`4.00×`** fewer target passes · **`R² = 0.9855`** SAE (`0% → 99.9%` steer) · **`10% → 90%`** CEGIS | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/axiom-zero/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/axiom-zero/actions/workflows/ci.yml) |
-| **[aegis-runtime](https://github.com/nagarjunak-pixel/aegis-runtime)** | **Zero-Trust Agent Control Plane & ERP Sagas** | `.aegis` AST policy compiler, Biba taint lattice, AES-256-GCM PII vault, SAP/ERP sagas, RFC-6962 Merkle + Ed25519 ledger | **`29 µs`** median AST eval · **`100%`** deterministic multi-system rollback · **`97%`** cov | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/aegis-runtime/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/aegis-runtime/actions/workflows/ci.yml) |
-| **[prism-gate](https://github.com/nagarjunak-pixel/prism-gate)** | **Multi-Tenant OpenAI LLM Gateway & Drift Plane** | TCP-Vegas / Gradient2 adaptive concurrency, speculative cascade router, claim-faithfulness judge, `PSI` + `JSD` drift | **`~4,660 req/s`** (`67 µs` median overhead) · **`-57%`** FinOps spend · **`97.6%`** cov | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/prism-gate/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/prism-gate/actions/workflows/ci.yml) |
-| **[chronos-mesh](https://github.com/nagarjunak-pixel/chronos-mesh)** | **Neuro-Symbolic Supply-Chain Digital Twin & MILP** | 4-tier BOM Simchi-Levi contagion (`TTR` vs `TTS`), Two-Phase Simplex + Branch-and-Bound MILP, `CVaR95` Monte Carlo | **`11.6 ms`** exact B&B global optimum · **`-81.4%`** `CVaR95` tail loss · **`98.4%`** cov | [![CI](https://img.shields.io/github/actions/workflow/status/nagarjunak-pixel/chronos-mesh/ci.yml?branch=main&label=CI&style=flat-square)](https://github.com/nagarjunak-pixel/chronos-mesh/actions/workflows/ci.yml) |
+### LinkedIn Pulse Monographs & 14 Architecture Deep-Dives
+- **[The 4 SAP MCP Layers Every BTP & Enterprise AI Architect Must Know in 2026 (LinkedIn Pulse)](https://www.linkedin.com/pulse/4-sap-mcp-layers-every-btp-enterprise-ai-architect-must-kamireddy-llh1f)**
+- **[Meet SAP-RPT-1: Why SAP Built a Table-Native Foundation Model Instead of Text LLMs (LinkedIn Pulse)](https://www.linkedin.com/pulse/meet-sap-rpt-1-why-sap-built-table-native-foundation-model-kamireddy-tdulf)**
+- **[Masterbook Ch. 01 of 50: Claude Code & The 5-Land Enterprise AI Architecture (LinkedIn Pulse)](https://www.linkedin.com/pulse/nagarjun-reddy-kamireddi-masterbook-chapter-01-50-claude-kamireddy-skfpe)**
+- **[All 14 Deep Systems & Enterprise AI Articles on nagarjunak-pixel.github.io →](https://nagarjunak-pixel.github.io/articles.html)**
 
 ---
 
-### Live Telemetry & Control-Plane Workbenches (10-Crown Suite)
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/nexus-verity">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/nexus-verity/main/docs/assets/workbench-preview.png" alt="NexusVerity Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/nexus-verity">NexusVerity</a></strong> · PC-Stable Causal DAGs, Cross-Fitted Double ML &amp; C++20 Conformal OPE
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/aether-compiler">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/aether-compiler/main/docs/assets/workbench-preview.png" alt="AetherCompiler Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/aether-compiler">AetherCompiler</a></strong> · MLIR/Triton SSA Fusion, C++20 Arena &amp; H100 CuTe XOR Autotuner
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/helios-consensus">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/helios-consensus/main/docs/assets/workbench-preview.png" alt="HeliosConsensus Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/helios-consensus">HeliosConsensus</a></strong> · Deterministic Raft DST, TLA+ BFS Prover &amp; HotStuff 3-Chain BFT
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/privora-graph">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/privora-graph/main/docs/assets/workbench-preview.png" alt="PrivoraGraph Sovereign Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/privora-graph">PrivoraGraph</a></strong> · Rényi DP-SGD, Bi-Temporal C++20 CSR GraphRAG &amp; Byzantine Silos
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/aegis-runtime">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/aegis-runtime/main/docs/assets/workbench-preview.png" alt="AegisRuntime Control Tower" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/aegis-runtime">AegisRuntime</a></strong> · Zero-Trust AST Policy &amp; SAP/ERP Saga Control Tower
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/prism-gate">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/prism-gate/main/docs/assets/workbench-preview.png" alt="PrismGate Control Plane" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/prism-gate">PrismGate</a></strong> · TCP-Vegas Multi-Tenant LLM Gateway &amp; PSI/JSD Drift Lab
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/veritas-rl">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/veritas-rl/main/docs/assets/workbench-preview.png" alt="VeritasRL Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/veritas-rl">VeritasRL</a></strong> · Critic-Free GRPO/DAPO, ICML '24 DoRA &amp; 2D Parallelism
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/axiom-zero">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/axiom-zero/main/docs/assets/workbench-preview.png" alt="AxiomZero Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/axiom-zero">AxiomZero</a></strong> · C++20 Speculative Kernel, Top-K SAE &amp; 1-UIP CDCL Prover
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/quant-forge">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/quant-forge/main/docs/assets/workbench-preview.png" alt="QuantForge Workbench" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/quant-forge">QuantForge</a></strong> · C++20 Packed INT4, Cholesky GPTQ/AWQ &amp; H100 Roofline
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/nagarjunak-pixel/chronos-mesh">
-        <img src="https://raw.githubusercontent.com/nagarjunak-pixel/chronos-mesh/main/docs/assets/workbench-preview.png" alt="ChronosMesh Digital Twin" width="100%" />
-      </a>
-      <br /><strong><a href="https://github.com/nagarjunak-pixel/chronos-mesh">ChronosMesh</a></strong> · Neuro-Symbolic Supply-Chain Digital Twin &amp; Exact MILP
-    </td>
-  </tr>
-</table>
+### 16-Crown Native `C++20`, `PyTorch` & Enterprise Agentic Systems Suite
+1. **[weavegraph](https://github.com/nagarjunak-pixel/weavegraph)** — C++20 CSR Code-Graph Worktree Scheduler (Tarjan SCC, Min-Cut Partitioner) & 3-Way AST Semantic Merge Verifier + MCP.
+2. **[vecta](https://github.com/nagarjunak-pixel/vecta)** — Bit-Exact C++20 Vector Search Engine: HNSW (`0.999` recall, tombstones), IVF-PQ, 1-Bit RaBitQ Hardware-Popcount & Hybrid BM25+RRF.
+3. **[slopguard](https://github.com/nagarjunak-pixel/slopguard)** — Sub-Millisecond C++20 & Python/TS AST Anti-Slop Verifier + Claude Code `PostToolUse` Auto-Repair Hook & MCP Server.
+4. **[tokendiet](https://github.com/nagarjunak-pixel/tokendiet)** — C++20 Order-Preserving Salience Knapsack Context Compressor (`70.25%` token reduction, `100%` accuracy kept), AST Skeletonizer & FinOps Router.
+5. **[syntara](https://github.com/nagarjunak-pixel/syntara)** — Grammar-Constrained Structured Decoding Engine: Minimal Byte DFA (`141.7x` C++20 prefix-sharing index, `20/20` schema-valid) & Byte-Level Earley CFG.
+6. **[tracegit](https://github.com/nagarjunak-pixel/tracegit)** — Local-First Git for AI Agent Execution Traces: C++20 Wagner–Fischer Step Bisection, Loop-Thrash Detector, SHA-256 Merkle DAG & MCP.
+7. **[aether-compiler](https://github.com/nagarjunak-pixel/aether-compiler)** — MLIR/TorchInductor-Style Typed SSA Tensor Graph Compiler, Fusion Pipeline, C++20 Arena Planner (`3.60x`) & H100 CuTe Bank-Conflict Autotuner.
+8. **[nexus-verity](https://github.com/nagarjunak-pixel/nexus-verity)** — Pearl Causal DAG & PC-Stable Discovery (`SHD=0`), Cross-Fitted Double/Debiased ML (`919x` bias reduction), Conformal Prediction & C++20 Policy Evaluator.
+9. **[helios-consensus](https://github.com/nagarjunak-pixel/helios-consensus)** — FoundationDB-Style Deterministic Simulation Raft, TLA+-Style BFS Model Checker, Chained HotStuff 3-Chain BFT & C++20 CRC32C/JumpHash.
+10. **[privora-graph](https://github.com/nagarjunak-pixel/privora-graph)** — Sovereign Differential Privacy (DP-SGD Rényi Accountant), SQL:2011 Bi-Temporal Personalized-PageRank GraphRAG & Byzantine Geometric-Median Engine.
+11. **[quant-forge](https://github.com/nagarjunak-pixel/quant-forge)** — Sub-Byte LLM Compression & Roofline Engine: Cholesky Second-Order GPTQ, Salient-Channel AWQ & C++20 Quantized Kernels.
+12. **[veritas-rl](https://github.com/nagarjunak-pixel/veritas-rl)** — Critic-Free GRPO/DAPO RLVR (`8.0x` Pass@1 lift), ICML '24 Oral DoRA (`563x` lower MSE), 2D Causal Ring-Attention + Megatron TP & Step-Level PRMs.
+13. **[axiom-zero](https://github.com/nagarjunak-pixel/axiom-zero)** — RoPE+GQA+SwiGLU Runtime, C++20 Speculative Decoding (`4.00x`), Top-K Sparse Autoencoder Steering (`R²=0.9855`) & 1-UIP CDCL RUP Proof Verifier.
+14. **[aegis-runtime](https://github.com/nagarjunak-pixel/aegis-runtime)** — Deterministic Zero-Trust Agent Control Plane, `.aegis` Policy AST Compiler, Taint Lattices, PII Vault & SAP/ERP Compensating Sagas.
+15. **[prism-gate](https://github.com/nagarjunak-pixel/prism-gate)** — Multi-Tenant OpenAI-Compatible LLM Gateway (`~4,660 req/s`), TCP-Vegas Concurrency, Speculative Cascade Router & PSI/JSD Drift Plane.
+16. **[chronos-mesh](https://github.com/nagarjunak-pixel/chronos-mesh)** — Neuro-Symbolic Multi-Echelon Supply-Chain Digital Twin, Exact Branch-and-Bound MILP Solver & Monte Carlo `CVaR95` Engine.
 
 ---
 
-### Developer Tools, Claude Code & MCP Utility Suite
+### Complete Public Repository Index ([Interactive Atlas →](https://nagarjunak-pixel.github.io/github-projects-atlas.html))
 
-> *Daily-signal-driven open-source tools built for agentic engineers — solving real context bloat, trajectory debugging, memory decay, and browser automation bottlenecks.*
-
-| Tool | Stack & Verification | Core Capabilities & Measured Impact | Preview |
-| :--- | :--- | :--- | :--- |
-| **[tracegit](https://github.com/nagarjunak-pixel/tracegit)** ([v1.0.0](https://github.com/nagarjunak-pixel/tracegit/releases/tag/v1.0.0))<br />[![TraceGit CI](https://github.com/nagarjunak-pixel/tracegit/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarjunak-pixel/tracegit/actions/workflows/ci.yml) | `C++20` (`clang++ -O3`) · Python · SQLite Merkle DAG · JSON-RPC 2.0 MCP · FastAPI · React/TS · `97.55%` coverage (`0` Ruff/Mypy errors) | Git-like trajectory diff, `bisect` & CI regression gate for Claude Code & OpenAI tool traces. Wagner-Fischer alignment (`4` edit ops, `50.0%` match, `step #2` bisect) + `p=1..3` loop-thrash detection. Live `qwen3.5:4b` benchmark: `0.0% -> 100.0%` (`6/6`) accuracy & `20.6%` token savings; drop-in `.mcp.json` server. | <img src="https://raw.githubusercontent.com/nagarjunak-pixel/tracegit/main/docs/assets/workbench-preview.png" width="260" alt="TraceGit Workbench UI" /> |
-| **[tokendiet](https://github.com/nagarjunak-pixel/tokendiet)** ([v1.0.0](https://github.com/nagarjunak-pixel/tokendiet/releases/tag/v1.0.0))<br />[![TokenDiet CI](https://github.com/nagarjunak-pixel/tokendiet/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarjunak-pixel/tokendiet/actions/workflows/ci.yml) | `C++20` (`clang++ -O3`) · Python AST · JSON-RPC 2.0 MCP · FastAPI · React/TS · `97.48%` coverage (`0` Ruff/Mypy errors) | Agent context compressor: order-preserving integer salience knapsack (`78.61%` log savings, `100.0%` anchor retention), AST skeletonizer (`36.19%`), cross-turn read dedup (`54.26%`), and Cascade FinOps router (`99.69%` flash savings). Live `qwen3.5:4b` audit: `100.0%` (`6/6`) accuracy, `70.25%` prompt reduction (`6,487 -> 1,930` tok), `53.98%` faster. | <img src="https://raw.githubusercontent.com/nagarjunak-pixel/tokendiet/main/docs/assets/workbench-preview.png" width="260" alt="TokenDiet Workbench UI" /> |
-| **[vecta](https://github.com/nagarjunak-pixel/vecta)** ([v1.0.0](https://github.com/nagarjunak-pixel/vecta/releases/tag/v1.0.0)) | `C++20` (`-Werror`) · Python · `mypy --strict` · `99%+` branch coverage | From-scratch vector search: HNSW `0.999` recall@10 touching `1.4%` of vectors, IVF-PQ (`24×` smaller), RaBitQ-style 1-bit codes, BM25+RRF hybrid, bit-exact C++20 kernels (`7.8–20.8×`). | — |
-| **[weavegraph](https://github.com/nagarjunak-pixel/weavegraph)** ([v1.0.0](https://github.com/nagarjunak-pixel/weavegraph/releases/tag/v1.0.0)) | `C++20` · Python · MCP · React · ruff + `mypy` + `>=95%` coverage gate in CI | Semantic code-graph worktree scheduler, min-cut multi-agent task partitioner & 3-way AST semantic merge verifier. | — |
-| **[slopguard](https://github.com/nagarjunak-pixel/slopguard)** ([v1.0.0](https://github.com/nagarjunak-pixel/slopguard/releases/tag/v1.0.0)) | `C++20` · Python AST · TypeScript · `mypy --strict` (`0` errors) · `97.12%` coverage (`12` tests) | Sub-second AI code anti-slop verifier with Claude Code `PostToolUse` hook & MCP server. Live `qwen3.5:4b` repair: `0/6 -> 6/6` passing, `9` blockers eliminated. | — |
-| **[slopguard](https://github.com/nagarjunak-pixel/slopguard)** ([v1.0.0](https://github.com/nagarjunak-pixel/slopguard/releases/tag/v1.0.0))<br />[![SlopGuard CI](https://github.com/nagarjunak-pixel/slopguard/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarjunak-pixel/slopguard/actions/workflows/ci.yml) | `C++20` (`clang++ -O3`) · Python AST · Claude Hook (`exit=2`) · JSON-RPC 2.0 MCP · React/TS · `97.12%` coverage (`0` Ruff/Mypy errors) | Sub-millisecond (`0.03–0.28ms`) anti-slop verifier catching hallucinated imports, dead stubs, silent `except: pass`, tautological tests & dead UI buttons while exempting `@abstractmethod`/`Protocol`. Live `qwen3.5:4b` guided repair: **`v1 0.0% -> v2 100.0%` (`6/6`) passing**, `9` blockers eliminated. | <img src="https://raw.githubusercontent.com/nagarjunak-pixel/slopguard/main/docs/assets/workbench-preview.png" width="260" alt="SlopGuard Audit Console UI" /> |
-| **[syntara](https://github.com/nagarjunak-pixel/syntara)** ([v1.0.0](https://github.com/nagarjunak-pixel/syntara/releases/tag/v1.0.0))<br />[![Syntara CI](https://github.com/nagarjunak-pixel/syntara/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarjunak-pixel/syntara/actions/workflows/ci.yml) | `C++20` (`-Werror`) · Python · `mypy --strict` · `99.7%` coverage (`157` tests) | Grammar-constrained structured decoding: JSON Schema/regex → minimal byte DFA → prefix-sharing token index (`112–142×`, bit-exact), byte-level Earley CFG constraints, exact choice scoring. `20/20` schema-valid vs `1/20` unconstrained. | [`Apache-2.0`](https://github.com/nagarjunak-pixel/syntara/blob/main/LICENSE) |
+| Repository | Stack | Architectural Scope |
+|---|---|---|
+| [`nagarjunak-pixel`](https://github.com/nagarjunak-pixel/nagarjunak-pixel) | Multi-Lang | Nagarjuna Reddy Kamireddy (Nagarjuna Kamireddy / Nagarjuna K) — Lead AI Architect, Agentic AI, GraphRAG, LLM Evaluation & SAP HANA |
+| [`nagarjunak-pixel.github.io`](https://github.com/nagarjunak-pixel/nagarjunak-pixel.github.io) | HTML | Nagarjuna Reddy Kamireddy (Nagarjuna Kamireddy / Nagarjuna K) — Official Lead AI Architect, Agentic AI & SAP Portfolio, Case Studies & llms.txt Hub |
+| [`weavegraph`](https://github.com/nagarjunak-pixel/weavegraph) | Python | Semantic Code-Graph Worktree Scheduler, Min-Cut Multi-Agent Task Partitioner & 3-Way AST Semantic Merge Verifier (C++20 + Python + MCP + React) |
+| [`vecta`](https://github.com/nagarjunak-pixel/vecta) | Python | Vector Search Engine: HNSW (heuristic neighbour selection, filtered & tombstone search) at 0.999 recall@10 touching 1.4% of vectors, IVF-PQ ADC + rerank (24x compression), RaBitQ-style 1-bit codes, BM25+RRF hybrid & bit-exact native C++20 kernels |
+| [`slopguard`](https://github.com/nagarjunak-pixel/slopguard) | Python | Sub-second AI code & UI anti-slop verifier: C++20 byte prescreener, Python AST & TypeScript slop gate, Claude Code hooks & MCP server |
+| [`tokendiet`](https://github.com/nagarjunak-pixel/tokendiet) | Python | Drop-in AI agent context compressor: C++20 order-preserving salience knapsack, AST skeletonizer, cross-turn read dedup, cascade FinOps router & MCP server |
+| [`nrk-enterprise-ai-masterbook`](https://github.com/nagarjunak-pixel/nrk-enterprise-ai-masterbook) | Multi-Lang | Nagarjuna Reddy Kamireddy™ — The 7,200-Page Enterprise AI, Claude Code & SAP RAG Masterbook Series (50 Daily Chapters) |
+| [`syntara`](https://github.com/nagarjunak-pixel/syntara) | Python | Grammar-Constrained Structured Decoding Engine: JSON Schema/Regex -> Minimal Byte DFA (Thompson/Rabin-Scott/Moore), Native C++20 Prefix-Sharing Token Index (112-142x, bit-exact), Byte-Level Earley CFG Constraints & Exact Closed-Set Choice Scoring |
+| [`tracegit`](https://github.com/nagarjunak-pixel/tracegit) | Python | Local-First Git for AI Agent Execution Traces: Native C++20 Trajectory Alignment & Loop-Thrash Detector, Content-Addressable SHA-256 Merkle DAG Store, CI Regression Gate & Drop-In Claude Code / Cursor MCP Server |
+| [`nexus-verity`](https://github.com/nagarjunak-pixel/nexus-verity) | Python | Pearl Causal DAG & PC-Stable Discovery (SHD=0), Chernozhukov Cross-Fitted Double/Debiased ML (919x Simpson's Bias Reduction), Finite-Sample Split Conformal Prediction, Native C++20 Doubly-Robust Policy Evaluator, and Live Qwen-3.5-4B Causal CEGIS |
+| [`aether-compiler`](https://github.com/nagarjunak-pixel/aether-compiler) | Python | MLIR/TorchInductor-Style Typed SSA Tensor Graph Compiler, Algebraic/CSE/DCE & Epilogue Fusion Pipeline, C++20 Linear-Scan Static Arena Planner (3.60x), Polyhedral H100 Tile & CuTe 32->1 Bank-Conflict Autotuner, and Live Qwen-3.5-4B CEGIS |
+| [`privora-graph`](https://github.com/nagarjunak-pixel/privora-graph) | Python | Sovereign Differential Privacy (DP-SGD Rényi Accountant), SQL:2011 Bi-Temporal Personalized-PageRank GraphRAG, Byzantine Geometric-Median Aggregation & Native C++20 CSR Engine |
+| [`helios-consensus`](https://github.com/nagarjunak-pixel/helios-consensus) | Python | FoundationDB-Style Deterministic Simulation Raft Engine, TLA+-Style Explicit-State BFS Model Checker (985 States + 4-Step Mutant Synthesis), Chained HotStuff 3-Chain BFT Finality, C++20 Jump Consistent Hash & Castagnoli CRC32C Kernels, and Live Quorum CEGIS |
+| [`venkatesh-llm`](https://github.com/nagarjunak-pixel/venkatesh-llm) | HTML | Micro-LLM From Scratch (1.03M Parameters) — End-to-end BPE tokenizer, causal Transformer pretraining, checkpointing & Ollama Q&A engineering lab. |
+| [`surya-agentic-academy-digest`](https://github.com/nagarjunak-pixel/surya-agentic-academy-digest) | HTML | Automated Agentic AI Research & Engineering Digest — Daily LLM paper & technical talk synthesis into 5 runnable project blueprints per edition. |
+| [`langgraph-localai-tv`](https://github.com/nagarjunak-pixel/langgraph-localai-tv) | Python | LangGraph 3-stage news pipeline: headlines → video → bulletin. Human approval gates, checkpoint persistence, error recovery. |
+| [`self-improving-agents`](https://github.com/nagarjunak-pixel/self-improving-agents) | Python | 🧠 Self-Improving Multi-Agent System — A teaching framework for advanced agentic AI: ReAct loop, Reflexion, multi-agent orchestration, adversarial reasoning, and agent-as-a-judge. With web UI + Netlify deployment. |
+| [`operdai-dashboard`](https://github.com/nagarjunak-pixel/operdai-dashboard) | JavaScript | Enterprise Multi-Tenant White-Label AI Lead-Agent Analytics Console — React + TypeScript telemetry, conversion funnels & partner branding portal. |
+| [`loop-engineering-trading`](https://github.com/nagarjunak-pixel/loop-engineering-trading) | JavaScript | Browser 'Minara' quant desk: research, strategy, execution, and review loops with backtesting and paper trading. |
+| [`llm-knowledge-base`](https://github.com/nagarjunak-pixel/llm-knowledge-base) | Python | LLM knowledge base: ingest sources, compile a markdown wiki, search, and ask questions (FastAPI + SQLite). |
+| [`firecrawl-nexus-rss`](https://github.com/nagarjunak-pixel/firecrawl-nexus-rss) | Python | Firecrawl-powered news aggregator: scrapes AP/TG constituency news into clean markdown and structured JSON. |
+| [`deerflow-research-agent`](https://github.com/nagarjunak-pixel/deerflow-research-agent) | Python | DeerFlow-inspired research agent with sub-agents (Planner, Searcher, Analyzer), persistent memory, and session resume. |
+| [`crewai-telugu-newsroom`](https://github.com/nagarjunak-pixel/crewai-telugu-newsroom) | Python | CrewAI multi-agent Telugu newsroom: Researcher → Script Writer → Fact-Checker. Sequential pipeline for automated news production. |
+| [`codexforge-tdd-mvp-v2`](https://github.com/nagarjunak-pixel/codexforge-tdd-mvp-v2) | Python | Self-correcting TDD sandbox: RED→GREEN loop with Docker isolation, VS Code extension, and LLM-powered code repair |
+| [`apsrtc-statistics-dashboard`](https://github.com/nagarjunak-pixel/apsrtc-statistics-dashboard) | JavaScript | React dashboard for APSRTC operations: fleet, tickets, financials, route heatmap, EV tracker, and a what-if simulator. |
+| [`agentic-ai-dashboard`](https://github.com/nagarjunak-pixel/agentic-ai-dashboard) | JavaScript | Interactive Visual Guide to Agentic AI Architecture — Tokenizer Inspector, RAG Playground, ReAct Loop, Reflexion & LLM Evaluation Suite. |
+| [`agentic-academy`](https://github.com/nagarjunak-pixel/agentic-academy) | Python | Python teaching framework for agentic engineering: agents, a harness, loops, memory, and a local-model demo. |
+| [`agentforge`](https://github.com/nagarjunak-pixel/agentforge) | JavaScript | AgentForge — Interactive React Workbench for Designing, Simulating & Debugging Multi-Agent Graphs, Eval Sandboxes & Swarm Telemetry. |
+| [`agent-framework-lab`](https://github.com/nagarjunak-pixel/agent-framework-lab) | Python | Hands-on Microsoft Agent Framework 1.0 lab — multi-agent workflows on local Ollama (no API keys) |
+| [`pytorch-interactive-demo`](https://github.com/nagarjunak-pixel/pytorch-interactive-demo) | JavaScript | Interactive PyTorch Deep-Learning Visualizer — Vector Embeddings, Cosine RAG Retrieval & Autograd Training Loop Dynamics. |
+| [`attention-head-walkthrough`](https://github.com/nagarjunak-pixel/attention-head-walkthrough) | HTML | Interactive Step-by-Step Transformer Self-Attention Head Simulation (Q/K/V Projections, Causal Masking & Softmax Attention Weights). |
+| [`ai-calc`](https://github.com/nagarjunak-pixel/ai-calc) | JavaScript | Qwen AI Calculator — plain-English math in the browser, solved locally with Ollama. |
+| [`company-os`](https://github.com/nagarjunak-pixel/company-os) | Python | CompanyOS — run ANY company with a team of AI agents. Config-driven (company.json), 7 role-agents, SIM + LIVE modes, kanban dashboard, KPI engine. |
+| [`rag-chat-docs`](https://github.com/nagarjunak-pixel/rag-chat-docs) | Python | RAG Chat with Documents — 7-Module From-Scratch Retrieval-Augmented Generation System (Chunking, Hybrid Search, CLI & FastAPI Web UI). |
+| [`spring-boot-mcp`](https://github.com/nagarjunak-pixel/spring-boot-mcp) | TypeScript | MCP server that lets an LLM inspect a Java Spring Boot app via Actuator, REST APIs, and logs. |
+| [`localaitv-mcp-server`](https://github.com/nagarjunak-pixel/localaitv-mcp-server) | Python | Python MCP server for LocalAI TV admin access to Postgres, AWS (ECS, S3, SQS, CloudWatch), and the public API. |
+| [`antigravity-sdk`](https://github.com/nagarjunak-pixel/antigravity-sdk) | Python | Example agents for Google's Antigravity SDK: chat, custom tools, MCP, streaming, multimodal, and hooks. |
+| [`ai-workforce`](https://github.com/nagarjunak-pixel/ai-workforce) | Python | Local multi-agent workforce with a FastAPI dashboard: CEO → research → architect → coding → QA → docs → deploy → marketing, on Ollama. |
+| [`smart-marketing-assistant`](https://github.com/nagarjunak-pixel/smart-marketing-assistant) | Python | CrewAI + LangChain marketing crew on local Ollama that drafts a content strategy, plus a daemon that can post AI news to X. |
+| [`agentic-systems-v3.1`](https://github.com/nagarjunak-pixel/agentic-systems-v3.1) | Python | Enterprise Agentic Systems v3.1 — consolidated monorepo (Phases 0-7) |
+| [`surya-shiksha`](https://github.com/nagarjunak-pixel/surya-shiksha) | TypeScript | Surya Shiksha — Multi-Agent Adaptive Learning Operating System (12 Specialized AI Agents, Next.js, TypeScript, PostgreSQL & Prisma). |
+| [`quant-forge`](https://github.com/nagarjunak-pixel/quant-forge) | Python | Frontier Sub-Byte LLM Compression & Roofline Engine: Cholesky Second-Order GPTQ, Salient-Channel AWQ, QuaRot/SpinQuant Walsh-Hadamard Incoherence, OCP FP8 E4M3/E5M2 & Native C++20 Bit-Packed INT4 Fused GEMM |
+| [`veritas-rl`](https://github.com/nagarjunak-pixel/veritas-rl) | Python | Frontier RLVR Post-Training & 2D Parallelism Engine: Critic-Free GRPO/DAPO Verifiable-Reward RL, DoRA Weight Decomposition (ICML '24 Oral), Causal Online-Softmax Ring-Attention + Megatron 2D TP, Native C++20 Kernels & Live PRM Test-Time Compute |
+| [`axiom-zero`](https://github.com/nagarjunak-pixel/axiom-zero) | Python | Verified Frontier Transformer Runtime: Native C++20 Lossless Speculative/Paged-KV Kernel, Anthropic-Style Top-K Sparse Autoencoder Circuit Steering, 1-UIP CDCL RUP Proof Verifier & Live Qwen-3.5-4B CEGIS Engine |
+| [`chronos-mesh`](https://github.com/nagarjunak-pixel/chronos-mesh) | Python | Neuro-Symbolic Multi-Echelon Supply-Chain Digital Twin, Exact Branch-and-Bound MILP Rerouting Solver, & CVaR95 Tail-Risk Engine |
+| [`prism-gate`](https://github.com/nagarjunak-pixel/prism-gate) | Python | High-Throughput OpenAI-Compatible Multi-Tenant LLM Inference Gateway, TCP-Vegas Concurrency Limiter, Speculative Cascade Router, & PSI/JSD Statistical Drift Plane |
+| [`aegis-runtime`](https://github.com/nagarjunak-pixel/aegis-runtime) | Python | Deterministic Zero-Trust Control Plane, Formal AST Policy Gatekeeper, RFC-6962 Merkle Audit Ledger & Transactional Saga Engine for Enterprise AI Agents |
+| [`02-autogpt-autonomous-agent`](https://github.com/nagarjunak-pixel/02-autogpt-autonomous-agent) | Python | Forward-Deployed Engineering (FDE) Autonomous Agent Lab — Zero-dependency ReAct think-act-observe execution loop & enterprise FDE curriculum. |
+| [`nagarjuna-kamireddy-ai-architect-dataset`](https://github.com/nagarjunak-pixel/nagarjuna-kamireddy-ai-architect-dataset) | JSONL | Open ChatML/SFT Fine-Tuning & RAG Grounding Dataset for Nagarjuna Reddy Kamireddy |
 
 ---
 
-### Applied Multi-Agent Systems, Enterprise MCP Servers & Interactive Labs
-
-| Category | Selected Open-Source Systems ([Explore Full Catalog →](https://nagarjunak-pixel.github.io/projects.html)) |
-| :--- | :--- |
-| **Multi-Agent Orchestration** | **[company-os](https://github.com/nagarjunak-pixel/company-os)** (Config-driven 7-agent autonomous organization + KPI engine) · **[agentforge](https://nagarjunak-pixel.github.io/agentforge/)** ([Repo](https://github.com/nagarjunak-pixel/agentforge) — Visual graph workbench, eval sandbox & swarm monitor) · **[langgraph-localai-tv](https://github.com/nagarjunak-pixel/langgraph-localai-tv)** (Stateful 3-stage LangGraph pipeline with HITL approval gates) · **[self-improving-agents](https://github.com/nagarjunak-pixel/self-improving-agents)** (ReAct, Reflexion, adversarial debate & LLM-as-a-Judge) |
-| **Enterprise MCP & Tooling** | **[localaitv-mcp-server](https://github.com/nagarjunak-pixel/localaitv-mcp-server)** (Production Python MCP server across PostgreSQL, AWS ECS/S3/SQS/CloudWatch & REST) · **[spring-boot-mcp](https://github.com/nagarjunak-pixel/spring-boot-mcp)** (Java Spring Boot Actuator & telemetry inspection via MCP) · **[antigravity-sdk](https://github.com/nagarjunak-pixel/antigravity-sdk)** (Streaming, multimodal & MCP agent patterns) · **[codexforge-tdd-mvp-v2](https://github.com/nagarjunak-pixel/codexforge-tdd-mvp-v2)** (Docker-isolated self-healing RED→GREEN TDD repair sandbox) |
-| **RAG & Knowledge Platforms** | **[llm-knowledge-base](https://github.com/nagarjunak-pixel/llm-knowledge-base)** (FastAPI + SQLite FTS5 self-compiling wiki & grounded Q&A) · **[rag-chat-docs](https://nagarjunak-pixel.github.io/rag-chat-docs/)** ([Repo](https://github.com/nagarjunak-pixel/rag-chat-docs) — 7-module from-scratch RAG engine) · **[surya-shiksha](https://github.com/nagarjunak-pixel/surya-shiksha)** (12-agent Next.js + TypeScript + PostgreSQL adaptive learning OS) |
-| **Interactive Deep-Learning Labs** | **[nrk-enterprise-ai-masterbook](https://nagarjunak-pixel.github.io/nrk-enterprise-ai-masterbook/)** (50-Chapter Enterprise AI, Claude Code & SAP RAG Masterbook) · **[agentic-ai-dashboard](https://nagarjunak-pixel.github.io/agentic-ai-dashboard/)** · **[attention-head-walkthrough](https://nagarjunak-pixel.github.io/attention-head-walkthrough/)** · **[pytorch-interactive-demo](https://nagarjunak-pixel.github.io/pytorch-interactive-demo/)** |
-
----
-
-### Production Architecture Field Notes ([Read All 10 Articles →](https://nagarjunak-pixel.github.io/articles.html))
-
-1. **[How We Rescued a ~30%-Accurate Enterprise GenAI Product to ~70% Using Multimodal Vision Agents & Rule Gates](https://nagarjunak-pixel.github.io/articles/rescuing-enterprise-genai-30-to-70-percent-accuracy.html)**
-2. **[AIFlow: Why Production Enterprise AI Needs 255 CI Quality Gates & Zero-Latency Drift Telemetry](https://nagarjunak-pixel.github.io/articles/aiflow-255-llm-evaluation-ci-regression-gates.html)**
-3. **[Zero-Trust Agent Control Planes: AST Policy Compilers & Compensating Sagas Over SAP/ERP](https://nagarjunak-pixel.github.io/articles/zero-trust-agent-control-plane-compensating-sagas.html)**
-4. **[High-Throughput Multi-Tenant LLM Gateways: TCP-Vegas Concurrency, Cascade FinOps & PSI/JSD Drift](https://nagarjunak-pixel.github.io/articles/high-throughput-llm-gateway-finops-drift-detection.html)**
-5. **[From 48-Hour Batch Loads to 12-Minute SAP HANA Pushdown & 6-Agent Neo4j GraphRAG](https://nagarjunak-pixel.github.io/articles/from-sap-hana-pushdown-to-neo4j-graphrag.html)**
-6. **[Enterprise Model Context Protocol (MCP): OAuth 2.1 Scopes, Blast-Radius Isolation & Audit Trails](https://nagarjunak-pixel.github.io/articles/model-context-protocol-mcp-enterprise-oauth-architecture.html)**
-
----
-
-### Executive Engagement & Recruiter Resources
-
-- **Canonical Architecture Hub:** [https://nagarjunak-pixel.github.io/](https://nagarjunak-pixel.github.io/) · [Case Studies](https://nagarjunak-pixel.github.io/case-studies.html) · [10-Role Fit Matrix](https://nagarjunak-pixel.github.io/roles.html)
-- **Regional & Domain Briefs:** [UAE / Dubai AI Architect](https://nagarjunak-pixel.github.io/uae-dubai-ai-architect.html) · [Saudi Arabia / KSA Sovereign AI](https://nagarjunak-pixel.github.io/saudi-arabia-ksa-ai-architect.html) · [SAP + GenAI Integration](https://nagarjunak-pixel.github.io/sap-genai-integration-architect.html) · [Forward-Deployed AI Architect](https://nagarjunak-pixel.github.io/forward-deployed-ai-architect.html)
-- **Downloadable Resumes:** [Global AI Architect PDF](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Global.pdf) · [UAE / KSA / GCC PDF](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Gulf-UAE.pdf) · [Corporate AI Trainer PDF](https://nagarjunak-pixel.github.io/assets/cv/Nagarjuna-Reddy-Kamireddy-CV-Corporate-AI-Trainer.pdf) · [JSON Resume (`resume.json`)](https://nagarjunak-pixel.github.io/resume.json)
-- **Runnable Architecture Gists:** [Agent Context Compression: Salience Knapsack, AST Skeletonizer & Read Dedup (`tokendiet`)](https://gist.github.com/nagarjunak-pixel/d0a3aedae0dd0aee1d980c537f83b8b9) · [Grammar-Constrained Decoding: Moore DFA & Trie Masking (`syntara`)](https://gist.github.com/nagarjunak-pixel/821f6d3480dba08d02a3d04eb501b04e) · [Agent Trajectory Wagner–Fischer Diff & Loop-Thrash Gate (`tracegit`)](https://gist.github.com/nagarjunak-pixel/45100525ee1536f306d4f663826cd660) · [Compiler SSA Arena, CuTe XOR & Causal Double-ML Suite](https://gist.github.com/nagarjunak-pixel/af6d7cfb1674832348a8ad6264f30642) · [8-Crown Mathematical & Distributed-Systems Invariant Suite](https://gist.github.com/nagarjunak-pixel/a302375da67c31a3caa6322d5b9f0f08) · [Enterprise AI & SAP Architecture Dossier](https://gist.github.com/nagarjunak-pixel/09292ddeff5241e6414a438841631f4a)
-- **AI / Sourcing Agent Index:** [`llms.txt`](https://nagarjunak-pixel.github.io/llms.txt) · [`llms-full.txt`](https://nagarjunak-pixel.github.io/llms-full.txt) · [`person.json` (Schema.org)](https://nagarjunak-pixel.github.io/person.json)
-- **Direct Contact:** `gmailtonagarjuna@gmail.com` · **Dubai / WhatsApp:** `+971 50 742 4361` · **India:** `+91 93913 47406` · **[LinkedIn](https://linkedin.com/in/nagarjuna-kamireddy)**
+### Direct Contact
+- **LinkedIn:** [https://www.linkedin.com/in/nagarjuna-kamireddy/](https://www.linkedin.com/in/nagarjuna-kamireddy/)
+- **Portfolio:** [https://nagarjunak-pixel.github.io/](https://nagarjunak-pixel.github.io/)
+- **Email:** `gmailtonagarjuna@gmail.com` · `writetonagarjuna@gmail.com` · `sendemailtonagarjuna@gmail.com`
+- **Phone / WhatsApp:** `+971 50 742 4361` (Dubai, UAE) · `+91 93913 47406` (India)
