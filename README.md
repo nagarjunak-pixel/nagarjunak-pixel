@@ -125,6 +125,16 @@ Clean-room, zero-mock reference systems combining **Python 3.12/3.13, Native `C+
 
 ---
 
+### Developer Tools, Claude Code & MCP Utility Suite
+
+> *Daily-signal-driven open-source tools built for agentic engineers — solving real context bloat, trajectory debugging, memory decay, and browser automation bottlenecks.*
+
+| Tool | Stack & Verification | Core Capabilities & Measured Impact | Preview |
+| :--- | :--- | :--- | :--- |
+| **[tracegit](https://github.com/nagarjunak-pixel/tracegit)** ([v1.0.0](https://github.com/nagarjunak-pixel/tracegit/releases/tag/v1.0.0))<br />[![TraceGit CI](https://github.com/nagarjunak-pixel/tracegit/actions/workflows/ci.yml/badge.svg)](https://github.com/nagarjunak-pixel/tracegit/actions/workflows/ci.yml) | `C++20` (`clang++ -O3`) · Python · SQLite Merkle DAG · JSON-RPC 2.0 MCP · FastAPI · React/TS · `97.55%` coverage (`0` Ruff/Mypy errors) | Git-like trajectory diff, `bisect` & CI regression gate for Claude Code & OpenAI tool traces. Wagner-Fischer alignment (`4` edit ops, `50.0%` match, `step #2` bisect) + `p=1..3` loop-thrash detection. Live `qwen3.5:4b` benchmark: `0.0% -> 100.0%` (`6/6`) accuracy & `20.6%` token savings; drop-in `.mcp.json` server. | <img src="https://raw.githubusercontent.com/nagarjunak-pixel/tracegit/main/docs/assets/workbench-preview.png" width="260" alt="TraceGit Workbench UI" /> |
+
+---
+
 ### Applied Multi-Agent Systems, Enterprise MCP Servers & Interactive Labs
 
 | Category | Selected Open-Source Systems ([Explore Full Catalog →](https://nagarjunak-pixel.github.io/projects.html)) |
