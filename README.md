@@ -8,7 +8,7 @@
 - **Email:** `writetonagarjuna@gmail.com`
 - **LinkedIn:** [linkedin.com/in/nagarjuna-kamireddy](https://www.linkedin.com/in/nagarjuna-kamireddy/)
 - **GitHub:** [github.com/nagarjunak-pixel](https://github.com/nagarjunak-pixel)
-- **Portfolio & Case Studies:** [nagarjunak-pixel.github.io](https://nagarjunak-pixel.github.io/) · [Executive Resume](https://nagarjunak-pixel.github.io/resume.html) · [Open-Source Systems](https://nagarjunak-pixel.github.io/projects.html) · [Field Guides & Monographs](https://nagarjunak-pixel.github.io/handbooks.html) · [`llms.txt`](https://nagarjunak-pixel.github.io/llms.txt)
+- **Portfolio & Case Studies:** [nagarjunak-pixel.github.io](https://nagarjunak-pixel.github.io/) · [Executive Resume](https://nagarjunak-pixel.github.io/resume.html) · [Open-Source Systems](https://nagarjunak-pixel.github.io/projects.html) · [Field Guides & Monographs](https://nagarjunak-pixel.github.io/handbooks.html)
 
 ---
 
@@ -36,10 +36,9 @@
 
 ---
 
-## Authoritative Career & Background Verification Record (Canonical Single Source of Truth — November 2026)
+### Experience & Credentials (22 Years)
 
 - **Canonical Name & Published Variants:** Nagarjuna Reddy Kamireddy (`Nagarjuna Kamireddy` · `Nagarjuna K`)
-- **Entity Disambiguation:** Enterprise AI & Data Platform Architect (`github.com/nagarjunak-pixel`, `linkedin.com/in/nagarjuna-kamireddy`). Distinct from Indian film actor *Akkineni Nagarjuna*; independent of third-party training academies.
 - **Total Experience:** **22 years** (`2004 – 2026`)
 - **Chronological Employment History (`MM/YYYY – MM/YYYY`):**
   1. **John Deere** (Pune, India) — **AI Architect & Technical Lead (official title: Senior Data Scientist)** · **`01/2023 – 10/2026`** — Owned architecture, self-service AWS platform (Terraform, GitHub Actions), and delivery for a **12+ member team across 23+ AI initiatives** (**750K+ automated requests**, **42K+ hours saved** in FY26); built **StoneAge** engineering copilot, **6-agent Neo4j GraphRAG**, and **AIFlow** (`255` CI quality checks); sat on the **AI Governance Council** (NIST AI RMF / EU AI Act).
